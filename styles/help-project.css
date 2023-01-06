@@ -108,3 +108,22 @@ input{
    padding: 145px 22px 54px;
    justify-content: space-around;
 }
+
+/* description */
+.description{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.des{
+    width: 456px;
+    height: 477px;
+    border: 1px solid none;  
+
+}
+.des-title{
+    font-weight: 700;
+    font-size: 20px;
+}
